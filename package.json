@@ -1,0 +1,33 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "nodejs practice ",
+  "main": "index.js",
+  "type": "module",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omesh-narwani/nodejs.git"
+  },
+  
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "omesh-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omesh-narwani/nodejs/issues"
+  },
+  
+  "homepage": "https://github.com/omesh-narwani/nodejs#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "color": "^4.2.3",
+    "colors": "^1.4.0"
+  }
+}
